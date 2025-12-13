@@ -1,0 +1,10 @@
+My Name Is Shashank
+
+commands completed on 12/13/2025
+git init
+git status
+git add
+git commit 
+git push
+git pull
+
